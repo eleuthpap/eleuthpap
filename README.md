@@ -5,9 +5,9 @@
 - 💻 I like building web/mobile apps
 - 🌱 Currently learning: js / Node.js / React
 - 🎯 Goal: Become a better software engineer
-
+- ⚡ Working with hardware and electronics circuits,
 ## Tech Stack
-- Frontend: React, HTML, CSS,js
+- Frontend: React, HTML, CSS, Js
 - Tools: Git, GitHub
 
 ## Contact
