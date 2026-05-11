@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**eleuthpap/eleuthpap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eleftheria 👋
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I like building web/mobile apps
+- 🌱 Currently learning: js / Node.js / React
+- 🎯 Goal: Become a better software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React, HTML, CSS,js
+- Tools: Git, GitHub
+
+## Contact
+- GitHub: eleuthpap
+- LinkedIn:https://www.linkedin.com/in/eleutheria-papazoglou-561917334/?skipRedirect=true
