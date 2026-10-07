@@ -3,7 +3,7 @@
 
 ## About Me
 - 💻 I like building web/mobile apps
-- 🌱 Currently learning: js / Node.js / React
+- 🌱 Currently learning: js / Node.js
 - 🎯 Goal: Become a better software engineer
 - ⚡ Working with hardware and electronics circuits,
 ## Tech Stack
