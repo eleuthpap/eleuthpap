@@ -7,8 +7,8 @@
 - 🎯 Goal: Become a better software engineer
 - ⚡ Working with hardware and electronics circuits,
 ## Tech Stack
-- Frontend: React, HTML, CSS, Js
-- Tools: Git, GitHub
+- Frontend: React, HTML, CSS, Js,PHP
+- Tools: Git, GitHub,Bit Bucket
 
 ## Contact
 - GitHub: eleuthpap
