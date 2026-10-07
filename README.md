@@ -1,15 +1,19 @@
-
-# Hi, I'm Eleftheria 👋
+# Hi, I'm Eleutheria 👋
 
 ## About Me
-- 💻 I like building web/mobile apps
-- 🌱 Currently learning: js / Node.js
-- 🎯 Goal: Become a better software engineer
-- ⚡ Working with hardware and electronics circuits,
+
+- 💻 I enjoy building web and mobile applications.
+- 🌱 Currently learning Node.js.
+- 🎯 Focused on improving my software engineering skills through practical projects.
+- ⚡ Interested in hardware and electronic circuits.
+
 ## Tech Stack
-- Frontend: React, HTML, CSS, Js,PHP
-- Tools: Git, GitHub,Bit Bucket
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Tools:** WordPress, Git, GitHub, Bitbucket
 
 ## Contact
-- GitHub: eleuthpap
-- LinkedIn:https://www.linkedin.com/in/eleutheria-papazoglou-561917334/?skipRedirect=true
+
+- **GitHub:** [eleuthpap](https://github.com/eleuthpap)
+- **LinkedIn:** [Eleutheria Papazoglou](https://www.linkedin.com/in/eleutheria-papazoglou-561917334/)
